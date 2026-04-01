@@ -1,35 +1,37 @@
 # 👋 Hi, I'm Abdulla Abdul Raoof
 
-🚀 **AI Engineer | Computer Vision | Edge AI | IoT Developer**
+🚀 **AI Engineer | Computer Vision | Edge AI | IoT Developer | Full Stack Developer**
 
-I build intelligent systems that combine **Artificial Intelligence with real-world applications**, focusing on deploying AI models on edge devices and building complete end-to-end solutions.
+I build intelligent systems that combine **Artificial Intelligence, IoT, and real-world applications**.
+My focus is on developing **end-to-end AI solutions**, from model training to deployment on edge devices and real-time web platforms.
 
-My goal is to develop **real-world AI systems** that improve automation, safety, and efficiency.
+I enjoy solving **real-world problems using AI, automation, and smart systems**.
 
 ---
 
-# 🧠 Areas of Expertise
+# 🧠 Core Expertise
 
 * Computer Vision
 * Edge AI Deployment
-* Smart Agriculture Systems
+* Real-Time AI Systems
+* Smart Agriculture AI
 * IoT Automation
-* Real-Time AI Applications
+* AI + Web Integration
 * Raspberry Pi AI Projects
 
 ---
 
-# 🚀 Featured AI Projects
+# 🚀 Featured Projects
 
 ## 🐛 AI Pest Insect Detection & Smart Control System
 
-An **Edge AI agriculture system** that detects pest insects using **YOLOv8** on a **Raspberry Pi** and automatically controls environmental devices.
+An **Edge AI agriculture system** that detects pest insects using **YOLOv8** on a **Raspberry Pi** and automatically controls environmental devices like grow lights and cooling fans.
 
-### Key Features
+### Highlights
 
 * Real-time insect detection
 * Edge AI inference on Raspberry Pi
-* Automated fan and grow light control
+* Automated device control
 * Buzzer alert system
 * Custom labeled dataset
 * Smart agriculture automation
@@ -41,19 +43,37 @@ https://github.com/abdullaabdulraoof/ai-pest-insect-detection-edge-ai-iot
 
 ## 🚦 AI Traffic Sign Detection & Driving Assistant
 
-A **real-time traffic monitoring and driver assistance system** that detects traffic signs and provides voice alerts, speed monitoring, and AI chatbot support.
+A **real-time AI driving assistant system** that detects traffic signs, announces them, and helps drivers maintain safe speeds.
 
-### Key Features
+### Highlights
 
 * Real-time traffic sign detection
-* Voice-based driving alerts
+* Voice-based alerts
 * Speed limit comparison system
-* AI driving assistant chatbot
-* Real-time dashboard using Angular
+* AI driving chatbot
+* Angular real-time dashboard
 * YOLO-based computer vision model
 * Trained using merged traffic sign datasets
 
-This project demonstrates **AI + Web + Real-time systems integration**.
+This project demonstrates **AI + Web + Real-time system integration**.
+
+---
+
+## 🛒 Tekzo – Full Stack E-Commerce Platform
+
+A **production-ready MERN stack e-commerce platform** with secure authentication, online payments, and admin management system.
+
+### Highlights
+
+* JWT & Google Authentication
+* Product search and filtering
+* Cart and wishlist system
+* Razorpay payment integration
+* Admin dashboard
+* CI/CD deployment (Vercel + Render)
+
+🔗 Repository
+https://github.com/abdullaabdulraoof/Tekzo
 
 ---
 
@@ -87,6 +107,7 @@ Angular
 Node.js
 Express.js
 MongoDB
+React
 
 ## Hardware & IoT
 
@@ -99,7 +120,7 @@ Embedded AI Systems
 
 # 🛠 Technologies I Work With
 
-Python • YOLO • OpenCV • Angular • Node.js • MongoDB • Raspberry Pi • IoT • Edge AI
+Python • YOLO • OpenCV • Angular • React • Node.js • MongoDB • Raspberry Pi • IoT • Edge AI
 
 ---
 
@@ -145,8 +166,9 @@ To design and deploy **real-world AI systems** that solve practical problems usi
 * Edge AI
 * IoT Automation
 * Smart Infrastructure
+* AI-powered Safety Systems
 
-I aim to work on **large-scale AI solutions in smart cities, agriculture, and transportation systems**.
+I aim to work on **large-scale AI solutions in smart cities, agriculture, and intelligent transportation systems**.
 
 ---
 
