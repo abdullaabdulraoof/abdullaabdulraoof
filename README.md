@@ -1,109 +1,153 @@
 # 👋 Hi, I'm Abdulla Abdul Raoof
 
-🚀 AI Engineer | Computer Vision | Edge AI | IoT Developer  
+🚀 **AI Engineer | Computer Vision | Edge AI | IoT Developer**
 
-I build intelligent systems that combine **Artificial Intelligence with real-world hardware**.
+I build intelligent systems that combine **Artificial Intelligence with real-world applications**, focusing on deploying AI models on edge devices and building complete end-to-end solutions.
 
-My focus areas include:
-
-- Computer Vision
-- Edge AI Deployment
-- Smart Agriculture Systems
-- IoT Automation
-- Raspberry Pi AI Projects
+My goal is to develop **real-world AI systems** that improve automation, safety, and efficiency.
 
 ---
 
-## 🔬 Featured Project
+# 🧠 Areas of Expertise
 
-### AI Pest Insect Detection & Smart Control System
+* Computer Vision
+* Edge AI Deployment
+* Smart Agriculture Systems
+* IoT Automation
+* Real-Time AI Applications
+* Raspberry Pi AI Projects
 
-An Edge AI system that detects pest insects using **YOLOv8** on a **Raspberry Pi** and automatically controls devices like grow lights and cooling fans.
+---
 
-Key Features
+# 🚀 Featured AI Projects
 
-- Real-time insect detection
-- Edge AI inference
-- Automated fan and light control
-- Buzzer alert system
-- Custom labeled dataset
-- Smart agriculture application
+## 🐛 AI Pest Insect Detection & Smart Control System
 
-Repository:
+An **Edge AI agriculture system** that detects pest insects using **YOLOv8** on a **Raspberry Pi** and automatically controls environmental devices.
+
+### Key Features
+
+* Real-time insect detection
+* Edge AI inference on Raspberry Pi
+* Automated fan and grow light control
+* Buzzer alert system
+* Custom labeled dataset
+* Smart agriculture automation
+
+🔗 Repository
 https://github.com/abdullaabdulraoof/ai-pest-insect-detection-edge-ai-iot
 
 ---
 
-## 🧠 Skills
+## 🚦 AI Traffic Sign Detection & Driving Assistant
 
-### Artificial Intelligence
-Computer Vision  
-Deep Learning  
-Object Detection  
-Edge AI  
+A **real-time traffic monitoring and driver assistance system** that detects traffic signs and provides voice alerts, speed monitoring, and AI chatbot support.
 
-### Programming
-Python  
-Linux  
-Embedded Systems  
+### Key Features
 
-### Tools
-YOLOv8  
-OpenCV  
-PyTorch  
-TensorFlow  
+* Real-time traffic sign detection
+* Voice-based driving alerts
+* Speed limit comparison system
+* AI driving assistant chatbot
+* Real-time dashboard using Angular
+* YOLO-based computer vision model
+* Trained using merged traffic sign datasets
 
-### Hardware & IoT
-Raspberry Pi  
-Sensors  
-Relay Modules  
-Automation Systems  
+This project demonstrates **AI + Web + Real-time systems integration**.
 
 ---
 
-## 🛠 Technologies I Use
+# 🧩 Technical Skills
 
-Python • OpenCV • YOLO • Raspberry Pi • IoT • Linux • AI Models
+## Artificial Intelligence
+
+Computer Vision
+Deep Learning
+Object Detection
+Edge AI Deployment
+
+## Programming
+
+Python
+JavaScript
+TypeScript
+Linux
+
+## AI & Development Tools
+
+YOLOv8
+OpenCV
+PyTorch
+TensorFlow
+Socket.IO
+
+## Web Development
+
+Angular
+Node.js
+Express.js
+MongoDB
+
+## Hardware & IoT
+
+Raspberry Pi
+Sensors
+Relay Modules
+Embedded AI Systems
 
 ---
 
-## 📈 Currently Working On
+# 🛠 Technologies I Work With
 
-- Edge AI Systems
-- Smart Agriculture AI
-- Real-time Detection Models
-- IoT Automation Projects
+Python • YOLO • OpenCV • Angular • Node.js • MongoDB • Raspberry Pi • IoT • Edge AI
 
 ---
 
-## 🌍 Portfolio
+# 📈 Currently Working On
+
+* Advanced Edge AI Systems
+* Real-Time AI Detection Platforms
+* Smart City AI Solutions
+* AI-based Safety Systems
+* IoT + AI Integration
+
+---
+
+# 🌍 Portfolio
 
 https://abdullaabdulraoof.github.io/portfolio/
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-LinkedIn  
+LinkedIn
 https://www.linkedin.com/in/abdullaabdulraoof
 
-GitHub  
+GitHub
 https://github.com/abdullaabdulraoof
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof\&show_icons=true\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof&layout=compact&theme=github_dark)
-
----
-
-## 🎯 Career Goal
-
-To build intelligent AI systems that solve real-world problems using **Computer Vision, Edge AI, and IoT automation**.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof\&layout=compact\&theme=github_dark)
 
 ---
 
-⭐ If you like my projects, feel free to star the repositories!
+# 🎯 Career Goal
+
+To design and deploy **real-world AI systems** that solve practical problems using:
+
+* Computer Vision
+* Edge AI
+* IoT Automation
+* Smart Infrastructure
+
+I aim to work on **large-scale AI solutions in smart cities, agriculture, and transportation systems**.
+
+---
+
+⭐ If you like my projects, feel free to **star the repositories**!
