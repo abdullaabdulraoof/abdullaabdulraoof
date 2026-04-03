@@ -1,89 +1,82 @@
 # 👋 Hi, I'm Abdulla Abdul Raoof
 
-🚀 **AI Engineer | Full Stack Developer | Edge AI | IoT Developer**
+🚀 **AI Engineer | Full Stack Developer | Edge AI | Real-Time Systems**
 
-I build **real-world intelligent systems** by combining:
-👉 Artificial Intelligence + Web Applications + IoT + Cloud Deployment
+I build **production-ready intelligent systems** by combining  
+**Artificial Intelligence + Full Stack Development + Cloud Deployment**
 
-My focus is on **deploying AI into production systems**, not just training models.
+💡 Focused on solving real-world problems in:
+- Smart Systems
+- Transportation & Logistics
+- Agriculture
+- Automation
 
 ---
 
-# 🧠 Areas of Expertise
+# 🧠 Core Expertise
 
-* Computer Vision (YOLO, OpenCV)
-* Edge AI Deployment (Raspberry Pi)
-* Real-Time AI Systems (Socket.io)
-* Full Stack Development (MERN / Angular)
-* Cloud & DevOps (AWS EC2, Nginx, PM2, SSL)
-* IoT Automation & Smart Systems
+- Computer Vision (YOLO, OpenCV)
+- Real-Time Systems (Socket.io, Streaming)
+- Full Stack Development (MERN / Angular)
+- Edge AI (Raspberry Pi)
+- Cloud Deployment (AWS EC2, Nginx, PM2)
+- IoT & Automation Systems
 
 ---
 
 # 🚀 Featured Projects
 
-## 🐛 AI Pest Insect Detection & Smart Control System
+## 🚚 Coolpex – Logistics & Operations System (Client Project)
 
-An **Edge AI agriculture system** that detects pest insects using YOLOv8 and automatically controls devices like fans and lights.
+A **production-grade logistics management platform** with real-time tracking, role-based dashboards, and scalable backend architecture.
 
-### 🔹 Key Highlights
+### 🔥 Highlights
+- Real-time updates using **Socket.io**
+- Full-stack system (**Angular + Node.js + MongoDB**)
+- Deployed on **AWS EC2 with Nginx & PM2**
+- Cloud media handling with **Cloudinary**
 
-* Real-time insect detection
-* Raspberry Pi edge deployment
-* Gesture-based control (APDS-9960)
-* Automated fan & grow light system
-* Custom dataset (Label Studio)
-* Smart agriculture use-case
-
-🔗 https://github.com/abdullaabdulraoof/ai-pest-insect-detection-edge-ai-iot
+⚠️ *Source code is private (client project)*  
+🔗 Case Study: https://github.com/abdullaabdulraoof/coolpex-system-case-study
 
 ---
 
 ## 🚦 AI Traffic Sign Detection & Driving Assistant
 
-A **real-time AI-powered driving assistant system** with voice alerts, speed monitoring, and chatbot support.
+A **real-time AI system** that detects traffic signs and assists drivers with alerts and speed monitoring.
 
-### 🔹 Key Highlights
-
-* YOLO-based traffic sign detection
-* Voice alert system (Text-to-Speech)
-* Speed limit comparison logic
-* Real-time dashboard (Angular + Socket.io)
-* AI chatbot for driving guidance
-* Multi-dataset training & optimization
-
-👉 Demonstrates **AI + Real-Time + Full Stack integration**
+### 🔥 Features
+- Real-time object detection using **YOLO**
+- Speed limit comparison system
+- Voice alerts for drivers
+- AI chatbot for driving tips
+- Trained on merged datasets
 
 ---
 
-## 🚙 Grace – Ride Management System (Production Deployed)
+## 🐛 AI Pest Insect Detection (Edge AI)
 
-A **full-stack real-time ride booking platform** deployed on AWS with DevOps best practices.
+An **Edge AI agriculture system** running on Raspberry Pi.
 
-### 🔹 Key Highlights
+### 🔥 Features
+- Real-time insect detection
+- Automated fan & light control
+- Buzzer alert system
+- Custom dataset training
 
-* MERN + Angular architecture
-* Real-time system using Socket.io
-* AWS EC2 deployment (Linux server)
-* Nginx reverse proxy setup
-* PM2 process management
-* HTTPS security using Certbot
-* Cloudinary media handling
-
-👉 Demonstrates **Production Deployment + System Design + DevOps**
+🔗 https://github.com/abdullaabdulraoof/ai-pest-insect-detection-edge-ai-iot
 
 ---
 
 ## 🤖 RAG Knowledge Assistant CLI
 
-A **Retrieval-Augmented Generation (RAG)** based AI assistant that answers queries using custom knowledge.
+A **Retrieval-Augmented Generation (RAG)** based CLI tool.
 
-### 🔹 Key Highlights
-
-* Custom knowledge-based AI system
-* Retrieval + LLM pipeline
-* CLI-based interaction
-* Context-aware responses
+### 🔥 Features
+- Query your own documents
+- Context-aware AI responses
+- Lightweight CLI interface
+- Fast local knowledge retrieval
 
 🔗 https://github.com/abdullaabdulraoof/rag-knowledge-assistant-cli
 
@@ -91,71 +84,46 @@ A **Retrieval-Augmented Generation (RAG)** based AI assistant that answers queri
 
 ## 🛒 Tekzo – Full Stack E-Commerce Platform
 
-A **production-ready MERN e-commerce system** with authentication and payment integration.
+A complete **MERN stack e-commerce system** with authentication and payments.
 
-### 🔹 Key Highlights
+### 🔥 Features
+- JWT + Google authentication
+- Razorpay integration
+- Admin dashboard
+- Cart & order system
 
-* JWT + Google Authentication
-* Razorpay payment integration
-* Admin dashboard & product management
-* Full CRUD operations
-* Deployed frontend (Vercel) + backend (Render)
-
----
-
-# 🧩 Technical Skills
-
-## Artificial Intelligence
-
-* Computer Vision
-* Deep Learning
-* Object Detection (YOLO)
-* RAG Systems
-* Edge AI
-
-## Programming
-
-* Python
-* JavaScript / TypeScript
-* Linux
-
-## Frameworks & Tools
-
-* OpenCV
-* PyTorch / TensorFlow
-* Socket.io
-* Express.js / Node.js
-* Angular / React
-
-## Cloud & DevOps
-
-* AWS EC2
-* Nginx
-* PM2
-* Certbot (SSL)
-* Cloudinary
-
-## Hardware & IoT
-
-* Raspberry Pi
-* Sensors & Relay Modules
-* Embedded AI Systems
+🔗 https://github.com/abdullaabdulraoof/Tekzo
 
 ---
 
-# 🛠 Technologies I Work With
+# 🛠 Tech Stack
 
-Python • YOLO • OpenCV • Angular • React • Node.js • MongoDB • Raspberry Pi • AWS • IoT • Edge AI
+### 💻 Programming
+Python • JavaScript • TypeScript • Linux
+
+### 🤖 AI & ML
+YOLO • OpenCV • PyTorch • TensorFlow
+
+### 🌐 Full Stack
+Angular • React • Node.js • Express • MongoDB
+
+### ⚡ Real-Time & Systems
+Socket.io • REST APIs • WebSockets
+
+### ☁️ Cloud & DevOps
+AWS EC2 • Nginx • PM2 • Certbot
+
+### 🔌 Hardware & IoT
+Raspberry Pi • Sensors • Automation Systems
 
 ---
 
 # 📈 Currently Working On
 
-* Advanced Edge AI Systems
-* Real-Time AI Detection Platforms
-* Smart City AI Solutions
-* AI + IoT Integration
-* Scalable AI Deployment
+- Advanced Real-Time AI Systems
+- AI + Full Stack Integrated Platforms
+- Smart City Solutions
+- Scalable Backend Architectures
 
 ---
 
@@ -167,33 +135,37 @@ Python • YOLO • OpenCV • Angular • React • Node.js • MongoDB • Ras
 
 # 🤝 Connect With Me
 
-🔗 LinkedIn
-https://www.linkedin.com/in/abdullaabdulraoof
+🔗 LinkedIn  
+https://www.linkedin.com/in/abdullaabdulraoof  
 
-🔗 GitHub
-https://github.com/abdullaabdulraoof
+🔗 GitHub  
+https://github.com/abdullaabdulraoof  
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof&layout=compact&theme=github_dark)
 
 ---
 
 # 🎯 Career Goal
 
-To design and deploy **real-world AI systems** that solve practical problems using:
+To build **scalable, real-world AI systems** that combine:
 
-* Computer Vision
-* Edge AI
-* IoT Automation
-* Cloud & Scalable Systems
+- Computer Vision
+- Real-Time Processing
+- Cloud Infrastructure
+- Automation
 
-I aim to work on **large-scale AI solutions in smart cities, agriculture, and intelligent transportation systems**.
+🚀 Aiming to work on **large-scale AI + Full Stack systems** in:
+- Smart Cities
+- Logistics
+- Agriculture
+- Safety Systems
 
 ---
 
-⭐ If you like my work, feel free to **star the repositories and connect!**
+⭐ If you like my work, feel free to **star repositories**!
