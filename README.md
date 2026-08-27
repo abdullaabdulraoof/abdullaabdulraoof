@@ -223,9 +223,9 @@ https://github.com/abdullaabdulraoof
 
 # 📊 GitHub Stats
 
-![Abdulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof66&show_icons=true&theme=tokyonight)
+![Abdulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof66&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof66&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof66&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
