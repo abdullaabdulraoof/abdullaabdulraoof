@@ -223,13 +223,13 @@ https://github.com/abdullaabdulraoof
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof&show_icons=true&theme=github_dark)
+![Abdulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullaabdulraoof66&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdulraoof66&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 My goal is to become a strong Backend Engineer capable of designing scalable, secure, maintainable, and production-ready systems.
 
