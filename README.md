@@ -191,7 +191,7 @@ RAG • LLM APIs • FAISS • Ollama • FastAPI
 Git • GitHub • Postman
 ---
 
-## 🔥 Currently Working On
+# 🔥 Currently Working On
 
 - 🏋️ Building a production-oriented Gym Management System
 - ⚙️ Improving Backend Architecture & Clean Code
