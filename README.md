@@ -1,30 +1,84 @@
 # 👋 Hi, I'm Abdulla Abdul Raoof
 
-🚀 **AI Engineer | Full Stack Developer | Edge AI | Real-Time Systems**
+### Backend-Focused Full Stack Developer
 
-I build **production-ready intelligent systems** by combining  
-**Artificial Intelligence + Full Stack Development + Cloud Deployment**
+I build scalable backend systems and production-oriented full-stack applications using Node.js, Express.js, Angular, and MongoDB.
 
-💡 Focused on solving real-world problems in:
-- Smart Systems
-- Transportation & Logistics
-- Agriculture
-- Automation
+My primary focus is backend engineering, including API architecture, authentication & authorization, database design, caching, background jobs, performance, security, and deployment.
+
+🚀 Also experienced in Full Stack Development, Real-Time Systems, AI Integration, and Cloud Deployment.
 
 ---
 
 # 🧠 Core Expertise
 
-- Computer Vision (YOLO, OpenCV)
-- Real-Time Systems (Socket.io, Streaming)
-- Full Stack Development (MERN / Angular)
-- Edge AI (Raspberry Pi)
-- Cloud Deployment (AWS EC2, Nginx, PM2)
-- IoT & Automation Systems
+- ⚙️ Backend Development with Node.js & Express.js
+- 🔐 Authentication & Authorization — JWT & RBAC
+- 🗄️ Database Design — MongoDB & Mongoose
+- 🔌 REST API Design & Backend Architecture
+- ⚡ Redis Caching & Cache Invalidation
+- 📬 Background Jobs & Queues with BullMQ
+- 🐳 Containerization with Docker & Docker Compose
+- 📊 Logging, Monitoring & Production Readiness
+- 🔄 Real-Time Systems with Socket.IO
+- 🧪 API Testing with Jest & Supertest
 
 ---
 
 # 🚀 Featured Projects
+
+## 🏋️ Elevate Gym Management System
+
+A production-oriented Gym Management System built with a backend-focused architecture.
+
+### 🔥 Backend Features
+
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Protected APIs
+- Members, Plans, Trainers & Attendance Management
+- Subscription & Membership Management
+- Payment Management
+- Request Validation with express-validator
+- Centralized Error Handling
+- Morgan HTTP Request Logging
+- Winston Application Logging
+
+### ⚡ Performance & Scalability
+
+- Redis API Response Caching
+- Cache TTL & Invalidation
+- Fail-open Cache Strategy
+- Background Jobs with BullMQ
+- Retry & Exponential Backoff
+- Delayed Jobs & Membership Reminders
+- Queue Monitoring & Failed Job Handling
+
+### 🐳 Infrastructure & Production
+
+- Docker & Docker Compose
+- MongoDB Container
+- Redis Container
+- Container Networking
+- Health Checks
+- Environment Configuration
+- Production-Oriented Security
+- Rate Limiting
+- Secure CORS
+- Helmet Security Headers
+
+### 🧪 Testing
+
+- Jest
+- Supertest
+- Authentication API Testing
+- Validation Testing
+
+### 🛠 Tech Stack
+
+Node.js • Express.js • MongoDB • Mongoose • Redis • BullMQ • Docker • JWT • Jest • Supertest
+
+---
 
 ## 🚚 Coolpex – Logistics & Operations System (Client Project)
 
@@ -40,21 +94,19 @@ A **production-grade logistics management platform** with real-time tracking, ro
 🔗 Case Study: https://github.com/abdullaabdulraoof/coolpex-system-case-study
 
 ---
+## 🤖 AI & Additional Projects
 
-## 🚦 AI Traffic Sign Detection & Driving Assistant
+### 🚦 AI Traffic Sign Detection & Driving Assistant
 
-A **real-time AI system** that detects traffic signs and assists drivers with alerts and speed monitoring.
-
-### 🔥 Features
-- Real-time object detection using **YOLO**
-- Speed limit comparison system
-- Voice alerts for drivers
-- AI chatbot for driving tips
-- Trained on merged datasets
+- Real-Time Object Detection
+- YOLO
+- Traffic Sign Recognition
+- Speed Limit Detection
+- Voice Alerts
 
 ---
 
-## 🐛 AI Pest Insect Detection (Edge AI)
+### 🐛 AI Pest Insect Detection (Edge AI)
 
 An **Edge AI agriculture system** running on Raspberry Pi.
 
@@ -68,7 +120,7 @@ An **Edge AI agriculture system** running on Raspberry Pi.
 
 ---
 
-## 🤖 RAG Knowledge Assistant CLI
+### 🤖 RAG Knowledge Assistant CLI
 
 A **Retrieval-Augmented Generation (RAG)** based CLI tool.
 
@@ -82,7 +134,7 @@ A **Retrieval-Augmented Generation (RAG)** based CLI tool.
 
 ---
 
-## 🛒 Tekzo – Full Stack E-Commerce Platform
+### 🛒 Tekzo – Full Stack E-Commerce Platform
 
 A complete **MERN stack e-commerce system** with authentication and payments.
 
@@ -96,40 +148,66 @@ A complete **MERN stack e-commerce system** with authentication and payments.
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
-### 💻 Programming
-Python • JavaScript • TypeScript • Linux
+### 💻 Backend
 
-### 🤖 AI & ML
-YOLO • OpenCV • PyTorch • TensorFlow
+Node.js • Express.js • REST APIs • JWT • RBAC
 
-### 🌐 Full Stack
-Angular • React • Node.js • Express • MongoDB
+### 🗄️ Database
 
-### ⚡ Real-Time & Systems
-Socket.io • REST APIs • WebSockets
+MongoDB • Mongoose
 
-### ☁️ Cloud & DevOps
-AWS EC2 • Nginx • PM2 • Certbot
+### ⚡ Caching & Background Processing
 
-### 🔌 Hardware & IoT
-Raspberry Pi • Sensors • Automation Systems
+Redis • ioredis • BullMQ
 
+### 🖥️ Frontend
+
+Angular • TypeScript • JavaScript • HTML • CSS
+
+### 🔄 Real-Time
+
+Socket.IO
+
+### 🧪 Testing
+
+Jest • Supertest
+
+### 🐳 DevOps & Deployment
+
+Docker • Docker Compose • AWS EC2 • Nginx • PM2 • GitHub Actions
+
+### 🔐 Security
+
+Helmet • Rate Limiting • CORS • Input Validation
+
+### 🤖 AI Integration
+
+RAG • LLM APIs • FAISS • Ollama • FastAPI
+
+### 🛠 Tools
+
+Git • GitHub • Postman
 ---
 
-# 📈 Currently Working On
+## 🔥 Currently Working On
 
-- Advanced Real-Time AI Systems
-- AI + Full Stack Integrated Platforms
-- Smart City Solutions
-- Scalable Backend Architectures
+- 🏋️ Building a production-oriented Gym Management System
+- ⚙️ Improving Backend Architecture & Clean Code
+- 📬 Background Processing with BullMQ
+- ⚡ Redis Caching & Cache Invalidation
+- 🐳 Docker & Containerized Applications
+- 🔐 Backend Security & API Protection
+- 📊 Monitoring, Health Checks & Production Readiness
+- 🧠 Learning System Design & Scalable Architectures
+- 📚 Improving Data Structures & Algorithms
 
 ---
 
 # 🌍 Portfolio
 
-🔗 https://abdullaabdulraoof.github.io/portfolio/
+🔗 https://abdullaabdulraoof.vercel.app/
 
 ---
 
@@ -151,14 +229,19 @@ https://github.com/abdullaabdulraoof
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Career Goal
 
-To build **scalable, real-world AI systems** that combine:
+My goal is to become a strong Backend Engineer capable of designing scalable, secure, maintainable, and production-ready systems.
 
-- Computer Vision
-- Real-Time Processing
-- Cloud Infrastructure
-- Automation
+I specialize in backend development while maintaining full-stack capabilities, allowing me to understand and build complete application architectures from frontend to infrastructure.
+
+### Current Growth Areas
+
+- 🏗 System Design
+- 📡 Event-Driven Architecture
+- ⚡ Distributed Systems
+- ☁️ Cloud Infrastructure
+- 🔄 Scalable Backend Systems
 
 🚀 Aiming to work on **large-scale AI + Full Stack systems** in:
 - Smart Cities
